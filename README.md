@@ -12,8 +12,8 @@
    2. mangos
    3. lemon
    4. grapes
-*vegetables
-  *tamatoes
-  *beetroots
-  *carrots
-  *appleguard
+* vegetables
+   * tamatoes
+   * beetroots
+   * carrots
+   * appleguard
