@@ -5,5 +5,5 @@
 ##### rect js
 ###### no, thanks
 *hii this is murali*
-** today is likely to all**
-*** dont make it silly***
+**today is likely to all**
+***dont make it silly***
